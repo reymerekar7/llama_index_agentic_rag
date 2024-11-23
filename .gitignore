@@ -1,0 +1,25 @@
+# Virtual environments
+env/
+venv/
+ENV/
+*.env/
+*.venv/
+*.virtualenv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
