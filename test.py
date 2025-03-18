@@ -4,6 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
+# written by claude
 # Generate some synthetic data for the demonstration
 np.random.seed(42)  # For reproducibility
 X = np.random.rand(100, 1) * 10  # 100 data points, single feature
